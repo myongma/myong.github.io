@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr.Yong</title>
+  
+  <subtitle>一个专注技术分享的小哥哥</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.myong.top/"/>
+  <updated>2019-10-14T10:33:58.730Z</updated>
+  <id>http://www.myong.top/</id>
+  
+  <author>
+    <name>Mr.Yong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git提交历史查询功能介绍以及使用</title>
+    <link href="http://www.myong.top/20191014/Git%E6%8F%90%E4%BA%A4%E5%8E%86%E5%8F%B2%E6%9F%A5%E8%AF%A2%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D%E4%BB%A5%E5%8F%8A%E4%BD%BF%E7%94%A8.html"/>
+    <id>http://www.myong.top/20191014/Git提交历史查询功能介绍以及使用.html</id>
+    <published>2019-10-14T09:44:13.000Z</published>
+    <updated>2019-10-14T10:33:58.730Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Git" scheme="http://www.myong.top/categories/Git/"/>
+    
+    
+      <category term="Git" scheme="http://www.myong.top/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python与mysqldump的数据库备份</title>
+    <link href="http://www.myong.top/20191014/Python%E4%B8%8Emysqldump%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A4%87%E4%BB%BD.html"/>
+    <id>http://www.myong.top/20191014/Python与mysqldump的数据库备份.html</id>
+    <published>2019-10-14T07:35:33.000Z</published>
+    <updated>2019-10-14T07:39:33.818Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.myong.top/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.myong.top/tags/Python/"/>
+    
+      <category term="Mysql" scheme="http://www.myong.top/tags/Mysql/"/>
+    
+      <category term="数据库备份" scheme="http://www.myong.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A4%87%E4%BB%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>内网使用Composer</title>
+    <link href="http://www.myong.top/20191008/%E5%86%85%E7%BD%91%E4%BD%BF%E7%94%A8Composer.html"/>
+    <id>http://www.myong.top/20191008/内网使用Composer.html</id>
+    <published>2019-10-08T15:29:23.000Z</published>
+    <updated>2019-10-14T02:42:34.651Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Composer" scheme="http://www.myong.top/tags/Composer/"/>
+    
+      <category term="内网" scheme="http://www.myong.top/tags/%E5%86%85%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP回调函数call_user_func和call_user_func_array使用</title>
+    <link href="http://www.myong.top/20190723/PHP%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0call_user_func%E5%92%8Ccall_user_func_array%E4%BD%BF%E7%94%A8.html"/>
+    <id>http://www.myong.top/20190723/PHP回调函数call_user_func和call_user_func_array使用.html</id>
+    <published>2019-07-23T08:40:28.000Z</published>
+    <updated>2019-10-14T02:42:34.642Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="PHP" scheme="http://www.myong.top/categories/PHP/"/>
+    
+    
+      <category term="PHP" scheme="http://www.myong.top/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决Nginx自动忽略header包含下划线参数方法</title>
+    <link href="http://www.myong.top/20190705/%E8%A7%A3%E5%86%B3Nginx%E8%87%AA%E5%8A%A8%E5%BF%BD%E7%95%A5header%E5%8C%85%E5%90%AB%E4%B8%8B%E5%88%92%E7%BA%BF%E5%8F%82%E6%95%B0%E6%96%B9%E6%B3%95.html"/>
+    <id>http://www.myong.top/20190705/解决Nginx自动忽略header包含下划线参数方法.html</id>
+    <published>2019-07-05T07:14:57.000Z</published>
+    <updated>2019-10-14T02:42:34.655Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Nginx" scheme="http://www.myong.top/categories/Nginx/"/>
+    
+    
+      <category term="Nginx" scheme="http://www.myong.top/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Yii2安装使用InfluxDB</title>
+    <link href="http://www.myong.top/20190523/Yii2%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8InfluxDB.html"/>
+    <id>http://www.myong.top/20190523/Yii2安装使用InfluxDB.html</id>
+    <published>2019-05-23T06:11:27.000Z</published>
+    <updated>2019-10-14T02:42:34.649Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="PHP" scheme="http://www.myong.top/categories/PHP/"/>
+    
+    
+      <category term="PHP" scheme="http://www.myong.top/tags/PHP/"/>
+    
+      <category term="InfluxDB" scheme="http://www.myong.top/tags/InfluxDB/"/>
+    
+      <category term="Yii2" scheme="http://www.myong.top/tags/Yii2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Window环境下安装并使用InfluxDB</title>
+    <link href="http://www.myong.top/20190523/Window%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85%E5%B9%B6%E4%BD%BF%E7%94%A8InfluxDB.html"/>
+    <id>http://www.myong.top/20190523/Window环境下安装并使用InfluxDB.html</id>
+    <published>2019-05-23T03:59:45.000Z</published>
+    <updated>2019-10-14T02:42:34.648Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术杂谈" scheme="http://www.myong.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+    
+      <category term="InfluxDB" scheme="http://www.myong.top/tags/InfluxDB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux环境下Apahce的调优</title>
+    <link href="http://www.myong.top/20190521/Linux%E7%8E%AF%E5%A2%83%E4%B8%8BApahce%E7%9A%84%E8%B0%83%E4%BC%98.html"/>
+    <id>http://www.myong.top/20190521/Linux环境下Apahce的调优.html</id>
+    <published>2019-05-21T06:04:03.000Z</published>
+    <updated>2019-10-14T02:42:34.641Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.myong.top/categories/Linux/"/>
+    
+    
+      <category term="Apache" scheme="http://www.myong.top/tags/Apache/"/>
+    
+      <category term="Linux" scheme="http://www.myong.top/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python语言对MongoDB的相关操作</title>
+    <link href="http://www.myong.top/20190414/Python%E8%AF%AD%E8%A8%80%E5%AF%B9MongoDB%E7%9A%84%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C.html"/>
+    <id>http://www.myong.top/20190414/Python语言对MongoDB的相关操作.html</id>
+    <published>2019-04-14T04:00:33.000Z</published>
+    <updated>2019-10-14T02:42:34.647Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.myong.top/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.myong.top/tags/Python/"/>
+    
+      <category term="数据库" scheme="http://www.myong.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+      <category term="MongoDB" scheme="http://www.myong.top/tags/MongoDB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Centos7安装后修改yum和epel源</title>
+    <link href="http://www.myong.top/20190326/Centos7%E5%AE%89%E8%A3%85%E5%90%8E%E4%BF%AE%E6%94%B9yum%E5%92%8Cepel%E6%BA%90.html"/>
+    <id>http://www.myong.top/20190326/Centos7安装后修改yum和epel源.html</id>
+    <published>2019-03-26T12:46:36.000Z</published>
+    <updated>2019-10-14T02:42:34.639Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.myong.top/categories/Linux/"/>
+    
+    
+      <category term="Centos7" scheme="http://www.myong.top/tags/Centos7/"/>
+    
+      <category term="Linux" scheme="http://www.myong.top/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟机安装Centos7后配置网络</title>
+    <link href="http://www.myong.top/20190326/%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85Centos7%E5%90%8E%E9%85%8D%E7%BD%AE%E7%BD%91%E7%BB%9C.html"/>
+    <id>http://www.myong.top/20190326/虚拟机安装Centos7后配置网络.html</id>
+    <published>2019-03-26T12:37:33.000Z</published>
+    <updated>2019-10-14T02:42:34.654Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.myong.top/categories/Linux/"/>
+    
+    
+      <category term="Centos7" scheme="http://www.myong.top/tags/Centos7/"/>
+    
+      <category term="Linux" scheme="http://www.myong.top/tags/Linux/"/>
+    
+      <category term="虚拟机" scheme="http://www.myong.top/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>了解域名SSL证书申请安装</title>
+    <link href="http://www.myong.top/20190322/%E4%BA%86%E8%A7%A3%E5%9F%9F%E5%90%8DSSL%E8%AF%81%E4%B9%A6%E7%94%B3%E8%AF%B7%E5%AE%89%E8%A3%85.html"/>
+    <id>http://www.myong.top/20190322/了解域名SSL证书申请安装.html</id>
+    <published>2019-03-22T09:17:43.000Z</published>
+    <updated>2019-10-14T02:42:34.651Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术杂谈" scheme="http://www.myong.top/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+    
+    
+      <category term="服务器" scheme="http://www.myong.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python基础整理元组基本操作</title>
+    <link href="http://www.myong.top/20190314/Python%E5%9F%BA%E7%A1%80%E6%95%B4%E7%90%86%E5%85%83%E7%BB%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.html"/>
+    <id>http://www.myong.top/20190314/Python基础整理元组基本操作.html</id>
+    <published>2019-03-14T13:55:25.000Z</published>
+    <updated>2019-10-14T02:42:34.645Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.myong.top/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.myong.top/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模拟登陆豆瓣并爬去豆瓣主页的部分数据</title>
+    <link href="http://www.myong.top/20190226/%E6%A8%A1%E6%8B%9F%E7%99%BB%E9%99%86%E8%B1%86%E7%93%A3%E5%B9%B6%E7%88%AC%E5%8E%BB%E8%B1%86%E7%93%A3%E4%B8%BB%E9%A1%B5%E7%9A%84%E9%83%A8%E5%88%86%E6%95%B0%E6%8D%AE.html"/>
+    <id>http://www.myong.top/20190226/模拟登陆豆瓣并爬去豆瓣主页的部分数据.html</id>
+    <published>2019-02-26T09:22:15.000Z</published>
+    <updated>2019-10-14T02:42:34.654Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.myong.top/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.myong.top/tags/Python/"/>
+    
+      <category term="爬虫" scheme="http://www.myong.top/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>整理一波PHP计算时间的方法</title>
+    <link href="http://www.myong.top/20190226/%E6%95%B4%E7%90%86%E4%B8%80%E6%B3%A2PHP%E8%AE%A1%E7%AE%97%E6%97%B6%E9%97%B4%E7%9A%84%E6%96%B9%E6%B3%95.html"/>
+    <id>http://www.myong.top/20190226/整理一波PHP计算时间的方法.html</id>
+    <published>2019-02-26T09:05:56.000Z</published>
+    <updated>2019-10-14T02:42:34.654Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="PHP" scheme="http://www.myong.top/categories/PHP/"/>
+    
+    
+      <category term="PHP" scheme="http://www.myong.top/tags/PHP/"/>
+    
+      <category term="后端" scheme="http://www.myong.top/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Selenium知识点整理之安装入门</title>
+    <link href="http://www.myong.top/20190225/Selenium%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86%E4%B9%8B%E5%AE%89%E8%A3%85%E5%85%A5%E9%97%A8.html"/>
+    <id>http://www.myong.top/20190225/Selenium知识点整理之安装入门.html</id>
+    <published>2019-02-25T14:23:55.000Z</published>
+    <updated>2019-10-14T02:42:34.647Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.myong.top/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.myong.top/tags/Python/"/>
+    
+      <category term="爬虫" scheme="http://www.myong.top/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>干货分享！！！Yii1封装Cookie操作</title>
+    <link href="http://www.myong.top/20190223/%E5%B9%B2%E8%B4%A7%E5%88%86%E4%BA%AB%EF%BC%81%EF%BC%81%EF%BC%81Yii1%E5%B0%81%E8%A3%85Cookie%E6%93%8D%E4%BD%9C.html"/>
+    <id>http://www.myong.top/20190223/干货分享！！！Yii1封装Cookie操作.html</id>
+    <published>2019-02-23T08:07:05.000Z</published>
+    <updated>2019-10-14T02:42:34.653Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="PHP" scheme="http://www.myong.top/categories/PHP/"/>
+    
+    
+      <category term="PHP" scheme="http://www.myong.top/tags/PHP/"/>
+    
+      <category term="Yii" scheme="http://www.myong.top/tags/Yii/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python分析一波微信好友</title>
+    <link href="http://www.myong.top/20190218/Python%E5%88%86%E6%9E%90%E4%B8%80%E6%B3%A2%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B.html"/>
+    <id>http://www.myong.top/20190218/Python分析一波微信好友.html</id>
+    <published>2019-02-18T13:42:48.000Z</published>
+    <updated>2019-10-14T02:42:34.644Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.myong.top/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.myong.top/tags/Python/"/>
+    
+      <category term="爬虫" scheme="http://www.myong.top/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>xpath爬去boss直聘职位信息</title>
+    <link href="http://www.myong.top/20190215/xpath%E7%88%AC%E5%8E%BBboss%E7%9B%B4%E8%81%98%E8%81%8C%E4%BD%8D%E4%BF%A1%E6%81%AF.html"/>
+    <id>http://www.myong.top/20190215/xpath爬去boss直聘职位信息.html</id>
+    <published>2019-02-15T10:15:43.000Z</published>
+    <updated>2019-10-14T02:42:34.650Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.myong.top/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.myong.top/tags/Python/"/>
+    
+      <category term="爬虫" scheme="http://www.myong.top/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python基础整理之列表常见操作</title>
+    <link href="http://www.myong.top/20190210/Python%E5%9F%BA%E7%A1%80%E6%95%B4%E7%90%86%E4%B9%8B%E5%88%97%E8%A1%A8%E5%B8%B8%E8%A7%81%E6%93%8D%E4%BD%9C.html"/>
+    <id>http://www.myong.top/20190210/Python基础整理之列表常见操作.html</id>
+    <published>2019-02-10T08:53:55.000Z</published>
+    <updated>2019-10-14T02:42:34.645Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://www.myong.top/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="http://www.myong.top/tags/Python/"/>
+    
+  </entry>
+  
+</feed>
